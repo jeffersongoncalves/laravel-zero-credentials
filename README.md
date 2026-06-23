@@ -1,3 +1,9 @@
+<div class="filament-hidden">
+
+![laravel-zero-credentials](https://raw.githubusercontent.com/jeffersongoncalves/laravel-zero-credentials/main/art/jeffersongoncalves-laravel-zero-credentials.png)
+
+</div>
+
 # laravel-zero-credentials
 
 Reusable base for storing CLI authentication credentials locally in JSON, with
