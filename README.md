@@ -6,6 +6,8 @@
 
 # laravel-zero-credentials
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersongoncalves)
+
 Reusable base for storing CLI authentication credentials locally in JSON, with
 secure file permissions and a typed credentials contract.
 
